@@ -47,3 +47,27 @@ texts.push([
 	"Cerca", // 18
 	"Seleziona Lingua" // 19
 ])
+
+// German (translation provided by Ghabry)
+texts.push([
+	"Unbekannt", // 0
+	"Stürzt ab", // 1
+	"Fehlerhaft", // 2
+	"Langsam", // 3
+	"Spielbar", // 4
+	"Alle", // 5
+	"Startseite", // 6
+	"Kompatibilitätsliste", // 7
+	"Tags", // 8
+	"Homebrew, die den Emulator abstürzen lässt.", // 9
+	"Homebrew mit visuellen Problemen oder Fehlern.", // 10
+	"Homebrew mit schlechter Framerate.", // 11
+	"Perfekt spielbare Homebrew.", // 12
+	"Name", // 13
+	"Status", // 14
+	"PlayStation und PS Vita sind eingetragene Warenzeichen von Sony Interactive Entertainment Inc.", // 15
+	"Dieser Emulator steht in keinerlei Zusammenhang mit Sony und verwendet keine internen bzw. vertraulichen Materialien von Sony.", // 16
+	"Logo von", // 17
+	"Suche", // 18
+	"Sprache" // 19
+])
